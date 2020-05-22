@@ -13,6 +13,7 @@
 		FD39FD092477D05B00076C10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD39FD082477D05B00076C10 /* Assets.xcassets */; };
 		FD39FD0C2477D05B00076C10 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD39FD0B2477D05B00076C10 /* Preview Assets.xcassets */; };
 		FD39FD0F2477D05B00076C10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD39FD0D2477D05B00076C10 /* LaunchScreen.storyboard */; };
+		FD39FD17247844FB00076C10 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD39FD16247844FB00076C10 /* TimeCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FD39FD0B2477D05B00076C10 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FD39FD0E2477D05B00076C10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD39FD102477D05B00076C10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD39FD16247844FB00076C10 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FD39FD022477D05900076C10 /* AppDelegate.swift */,
 				FD39FD042477D05900076C10 /* SceneDelegate.swift */,
 				FD39FD062477D05900076C10 /* ContentView.swift */,
+				FD39FD16247844FB00076C10 /* TimeCounter.swift */,
 				FD39FD082477D05B00076C10 /* Assets.xcassets */,
 				FD39FD0D2477D05B00076C10 /* LaunchScreen.storyboard */,
 				FD39FD102477D05B00076C10 /* Info.plist */,
@@ -149,6 +152,7 @@
 				FD39FD032477D05900076C10 /* AppDelegate.swift in Sources */,
 				FD39FD052477D05900076C10 /* SceneDelegate.swift in Sources */,
 				FD39FD072477D05900076C10 /* ContentView.swift in Sources */,
+				FD39FD17247844FB00076C10 /* TimeCounter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
